@@ -23,7 +23,7 @@
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-Hello, my name is Rodrigo, I currently work in the software architecture and technological evolution team for Veolia/Jtech products, Java development and other backend languages.
+💬 Hello, my name is Rodrigo, I currently work in the software architecture and technological evolution team for Veolia/Jtech products, Java development and other backend languages.
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolim&show_icons=true&theme=dark)
 
